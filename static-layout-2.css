@@ -1,0 +1,64 @@
+* {
+    font-family: Sofia Pro, serif;
+    text-transform: uppercase;
+    font-size: ;
+    font-weight: ;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+.nav {
+    background-image: url("https://images.ctfassets.net/usf1vwtuqyxm/QLeyKlzwUJbTvv3V6fe2A/c6867dbdf37cec3834473c983fb141d6/helen-crop-homepage.jpg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-attachment: scroll;
+    background-position: center top;
+    background-size: contain;
+    margin: 0;
+    padding: 0;
+}
+
+/* .nav-bar {
+    height: 100px;
+    width: 500px;
+} */
+
+a.navbar-logo {
+    display: flex;
+    justify-content: center;
+}
+
+/* .trailer-text {
+    font-family: Bluu Next, serif;
+    color: #f9f4f2;
+}
+
+.trailer-subtext {
+    font-family: Sofia Pro, serif;
+    color: #f9f4f2;
+} */
+
+button {
+    font-family: Sofia Pro, serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #fff;
+    padding: 18px 31px;
+    border-style: solid;
+    border: 1px solid transparent;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #6b63b5;
+}
+
+/* button:hover {
+
+}
+
+.feature-section {
+    font-family: Bluu Next, serif;
+    color: #fff;
+} */
+

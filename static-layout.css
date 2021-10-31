@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://images.ctfassets.net/usf1vwtuqyxm/QLeyKlzwUJbTvv3V6fe2A/c6867dbdf37cec3834473c983fb141d6/helen-crop-homepage.jpg");
+    background-repeat: no repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+    background-size: scroll;
+    font-family: Sofia Pro, sans-serif;
+    font-weight: bold;
+}
+
+.nav-bar {
+    margin: 400px;
+    padding: 400px;
+}
+
+.logo-container {
+
+}
+
+.mainscreen-logos {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-logo img {
+    height: 10%;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    font-size: 10pt;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: fixed;
+}
+
+li {
+    float: left;
+    padding: 20px;
+    list-style-type: none;
+}
+
+a {
+    padding: 8px;
+}
+
+
